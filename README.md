@@ -1,13 +1,11 @@
+# Calculator
 This **calculator** uses the popular python GUI (Graphical User Interface) library, Tkinter  
-
+<br/>
 On running the application, the interface looks like this:  
-
-![alt text](images/interface.png "calculator interface")  
-
+<p align='center'><img src='images/interface.png'/></p>
+<br/>
 After inputting values, it looks like this:  
-
-![alt text](images/input.png "calculator input")  
-
+<p align='center'><img src='images/input.png'/></p>
+<br/>
 Finally, the result displays like this:  
-
-![alt text](images/output.png "calculator output")
+<p align='center'><img src='images/output.png'/></p>
